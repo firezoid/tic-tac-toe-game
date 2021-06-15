@@ -17,7 +17,7 @@ A simple Tic Tac Toe game built with a beautiful design/
 3. Javascript
 ```
 
-### Real Code and Credit - [Coding Nepal](www.youtube.com/codingnepal)
+### Real Code and Credit - [Coding Nepal](www.codingnepalweb.com)
 
 ### Authors
 * **Firezoid** - [View](github.com/firezoid)
